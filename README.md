@@ -1,5 +1,5 @@
 # Review-System
-Product Review System is a fullstack web application designed to manage and display user-generated reviews for various products. Built with Java, Spring Boot, and PostgreSQL on the backend, the system supports secure user authentication, product management, and a dynamic review interface. Users can browse products, submit ratings and comments, and view aggregated feedback. Admins have full control over product listings and moderation.
+Product Review System is a fullstack application designed to manage and display user-generated reviews for various products. Built with Java, Spring Boot, and PostgreSQL on the backend, the system supports secure user authentication, product management, and a dynamic review interface. Users can browse products, submit ratings and comments, and view aggregated feedback. Admins have full control over product listings and moderation.
 
 ## **Core Features**
 - User Authentication: Signup, login, roles (admin, user)
